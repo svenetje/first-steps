@@ -3,10 +3,13 @@ body {
 }
 
 .header {
-    color: rgba(209, 17, 17, 0.641);
-    font-size: 30px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-image: url(https://marylineg1.sg-host.com/blog/wp-content/uploads/2018/12/matterhorn-1313x875.jpg);
     width: 100%;
     height: 450px;
+}
+
+.h1 {
+    color: rgba(209, 17, 17, 0.641);
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
