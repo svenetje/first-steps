@@ -11,7 +11,7 @@ body {
     border-color: black;
 }
 
-.h1 {
+.h-header {
     color: rgba(209, 17, 17, 0.641);
     font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -24,3 +24,13 @@ body {
     color: blueviolet;
     animation-delay: 0.5s;
 }
+
+.p-header {
+    color: crimson;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+    text-align: center;
+    border-radius: 10px;
+    border-color: black;
+}
+
